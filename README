@@ -1,0 +1,6 @@
+In every subdir:
+
+1. disp.png: original depth images
+2. mask.png or mask_*.png: the masks
+3. missing.png or missing_*.png: the images with missing pixels and regions.
+4. other images are inpainted results. Filenames indicate the inpainting approach.
